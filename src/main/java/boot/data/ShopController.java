@@ -10,7 +10,7 @@ public class ShopController {
 	@GetMapping("/")
 	public String start()
 	{
-		return "redirect:shop/list";
+		return "redirect:/shop/list";
 	}
 	
 	@GetMapping("/shop/list")
