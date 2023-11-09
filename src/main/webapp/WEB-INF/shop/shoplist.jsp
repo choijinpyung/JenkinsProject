@@ -14,7 +14,7 @@
 <body>
 <h4>안녕하세요^^</h4>
 <h6>오늘은 젠킨스 CICD 파이프라인 구축 할 예정입니다.</h6>
-<img alt="" src="../image/bear.png">
-<img alt="" src="../image/ddong.png">
+<img alt="" src="/image/bear.png">
+<img alt="" src="/image/ddong.png">
 </body>
 </html>
